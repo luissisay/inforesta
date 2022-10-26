@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\iresta\iresta\x64\Debug\iresta.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\iresta\iresta\x64\Debug\iresta.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\iresta\iresta\x64\Debug\iresta.informacion.resources
+C:\Users\user\source\repos\iresta\iresta\x64\Debug\iresta.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\iresta\iresta\x64\Debug\iresta.informacion2.resources
